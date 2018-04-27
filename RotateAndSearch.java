@@ -1,3 +1,4 @@
+/*Search element in a given sorted array which is rotated clockwise*/
 import java.util.Scanner;
 import java.util.Arrays;
 public class RotateAndSearch {

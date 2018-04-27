@@ -1,3 +1,4 @@
+'''Search element in a given sorted array which is rotated clockwise'''
 def bsearch(arr,low,high,key):
     mid = int((low+high)/2)
     if (low>high):

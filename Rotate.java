@@ -1,3 +1,4 @@
+/*Rotate a given array in anticlockwise direction by d elements*/
 import java.util.Scanner;
 import java.util.Arrays;
 public class Rotate {
